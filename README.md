@@ -90,3 +90,4 @@ RTL
 ![image](https://raw.githubusercontent.com/SarvaeshDR/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/main/sarvaesh03.jpg)
 
 Result:
+Thus the differnt digital IC's are studied the truth table for table for differnt logic gates are verified 
