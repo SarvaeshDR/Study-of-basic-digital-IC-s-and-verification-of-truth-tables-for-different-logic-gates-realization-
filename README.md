@@ -61,8 +61,8 @@ Program:
 ```
 /*
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: sarvaesh D.R
+RegisterNumber:23012252  
 */
 module ex1(a, b, y1, y2, 3, 4, 5, 6, 7);
 input a,b;
@@ -78,7 +78,7 @@ endmodule
 ```
 Logic symbol & Truthtable
 
-![image](
+![image](https://raw.githubusercontent.com/SarvaeshDR/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/main/sarvaesh01.jpg)
 
 ![image](https://raw.githubusercontent.com/SarvaeshDR/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/main/sarvaesh02.jpg)
 
